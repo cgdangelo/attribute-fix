@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <CGD_AttributeFix>
+            <active>true</active>
+            <codePool>community</codePool>
+        </CGD_AttributeFix>
+    </modules>
+</config>
+
