@@ -16,5 +16,5 @@ modman init
 </pre>
 - Install via modman:
 <pre>
-modman magneto-debug clone https://github.com/madalinoprea/magneto-debug.git
+modman attribute-fix clone https://github.com/cgdangelo/attribute-fix.git
 </pre>
