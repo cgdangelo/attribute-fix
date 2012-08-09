@@ -1,7 +1,7 @@
 <?php
 
 require_once 'Mage/Adminhtml/controllers/Catalog/Product/AttributeController.php';
-class CGD_AttributeFix_Catalog_Product_AttributeController extends Mage_Catalog_Product_AttributeController
+class CGD_AttributeFix_Catalog_Product_AttributeController extends Mage_Adminhtml_Catalog_Product_AttributeController
 {
 
     /**
